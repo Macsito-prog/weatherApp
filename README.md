@@ -1,5 +1,4 @@
-# weatherApp
-Pequeña aplicación web que muestra el tiempo en las ciudades según un buscador.
+
 
 # Aplicación web de clima
 Esta es una aplicación web que te permite ver el clima actual y la previsión del tiempo en distintas ciudades del mundo. Puedes buscar una ciudad en particular y ver la temperatura, la humedad, la velocidad del viento y una descripción general del clima en tiempo real.
